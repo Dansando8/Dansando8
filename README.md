@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Digital Marketing. 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-sandoval-vcc)
 - 😄 Pronouns: They
-- ⚡ Fun fact: I am very social ! 
+- ⚡ Fun fact: I am very social and like to talk about almos everything ! 
 -->

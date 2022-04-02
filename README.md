@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" margin="30px" title="React">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" margin="30px" width="40px" title="JavaScript">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" margin="30px" width="40px" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" margin="30px" width="40px" title="NodeJS">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" margin="30px" width="80px" title="MongoDb">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" margin="30px" width="30px" title="NodeJS">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" margin="30px" width="40px" title="MongoDb">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" margin="30px" width="50px" title="Mongoose">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" margin="30px" width="40px" title="CSS">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" margin="30px" width="40px" title="HTML">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" margin="30px" width="40px" title="SQL">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" margin="30px" width="40px" title="PosgreSQL">
   <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/566dd3f0-27a8-11ec-9a5a-0519330cdfea.png" margin="30px" width="40px" title="Sequelize">
-  <img src="https://p7.hiclipart.com/preview/592/502/329/logo-application-programming-interface-computer-programming-application-software-api-thumbnail.jpg" margin="30px" width="40px" title="restAPI">
+  <img src="https://docs.elastic.io/assets/img/components/icons/rest-api.png" margin="30px" width="40px" title="restAPI">
   
 
 </p>

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" margin="30px" title="React">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" margin="30px" width="40px" title="JavaScript">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" margin="30px" width="40px" title="TypeScript">
-  <img src="https://www.clipartmax.com/png/middle/89-894960_js-discord-bot-logo-node-js-and-react-js.png" margin="30px" width="40px" title="NodeJS">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" margin="30px" width="40px" title="NodeJS">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" margin="30px" width="40px" title="MongoDb">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" margin="30px" width="40px" title="Mongoose">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" margin="30px" width="40px" title="CSS">
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" margin="30px" width="40px" title="Docker">
   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" margin="30px" width="80px" title="Socket.io">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" margin="30px" width="40px" title="SQL">
-  <img src="https://www.kindpng.com/picc/m/394-3944547_postgresql-logo-png-transparent-png.png" margin="30px" width="40px" title="PosgreSQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" margin="30px" width="40px" title="PosgreSQL">
   <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/566dd3f0-27a8-11ec-9a5a-0519330cdfea.png" margin="30px" width="40px" title="Sequelize">
 </p>

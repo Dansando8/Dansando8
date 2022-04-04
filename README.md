@@ -43,12 +43,12 @@
 
 ### DevTracker
 
-<a href="https://github.com/lthemis/DevTracker</a> is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information and providing them with insights.
+<a href="https://github.com/lthemis/DevTracker>DevTracker</a> is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information and providing them with insights.
 
-• Implemented automated integration and unit tests for all API endpoints and key front-end react components. 
-• Improved UI and UX to provide a better user experience / Created a new brand image including logo
-• Performed a major refactor of legacy code following the DRY/SOLID method design pattern resulting in fewer API calls and a cleaner, more readable codebase. 
-• Refactored legacy code following the DRY/SOLID method design pattern and moved the project to TypeScript resulting in fewer API calls and a cleaner codebase. 
-• Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues.
+• Implemented automated integration and unit tests for all API endpoints and key front-end react components. <br />
+• Improved UI and UX to provide a better user experience / Created a new brand image including logo. <br />
+• Performed a major refactor of legacy code following the DRY/SOLID method design pattern resulting in fewer API calls and a cleaner, more readable codebase. <br />
+• Refactored legacy code following the DRY/SOLID method design pattern and moved the project to TypeScript resulting in fewer API calls and a cleaner codebase. <br />
+• Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues. <br />
 
-Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.
+Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.<br />

@@ -12,9 +12,9 @@
  <p align-"left">
  <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
- <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=black">
- <img src="https://img.shields.io/badge/css3-FD3A5C?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/html5-FD3A5C?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/node.js-FD3A5C?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/express-FD3A5C?style=for-the-badge&logo=express&logoColor=white">
 </p>

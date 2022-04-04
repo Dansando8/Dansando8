@@ -42,8 +42,9 @@
 <p align-"left">
  <img src="https://img.shields.io/badge/typescript-FD3A5C?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/docker-FD3A5C?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shieldsio/badge/docker-FD3A5C?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shieldsio/badge/docker-FD3A5C?style=for-the-badge&logo=socketio&logoColor=white">
+ <img src="https://img.shields.io/badge/jest-FD3A5C?style=for-the-badge&logo=jest&logoColor=white">
+ <img src="https://img.shields.io/badge/redux-FD3A5C?style=for-the-badge&logo=redux&logoColor=white">
+
  
  
  <img src="https://img.shieldsio/badge/jest-FD3A5C?style=for-the-badge&logo=jest&logoColor=white">

@@ -39,14 +39,14 @@
 ### Other stack I have experience with
 <p align-"left">
  <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
- <img src="https://img.shields.io/badge/jest-944058?style=for-the-badge&logo=jest&logoColor=white">
  <img src="https://img.shields.io/badge/redux-7b40bd?style=for-the-badge&logo=redux&logoColor=white">
+ <img src="https://img.shields.io/badge/jest-944058?style=for-the-badge&logo=jest&logoColor=white">
  <img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
  <img src="https://img.shields.io/badge/docker-2391e6?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/graphql-de32a6?style=for-the-badge&logo=graphql&logoColor=white">
  <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
  <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
+ <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
 ## LinkUp:

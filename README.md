@@ -12,7 +12,17 @@
  <p align-"left">
  <img src="https://img.shields.io/badge/javascript-FD3A5C?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/react-FD3A5C?style=for-the-badge&logo=react&logoColor=white">
+ <img src="https://img.shields.io/badge/mongodb-FD3A5C?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/css3-FD3A5C?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/html5-FD3A5C?style=for-the-badge&logo=html5&logoColor=white">
+
 </p>
+
+### Other stack I have experience with
+<p align-"left">
+ <img src="https://img.shields.io/badge/typecscript-FD3A5C?style=for-the-badge&logo=typecscript&logoColor=white">
+</p>
+
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" margin="30px" title="React">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" margin="30px" width="40px" title="JavaScript">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" margin="30px" width="40px" title="TypeScript">

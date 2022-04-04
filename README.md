@@ -10,7 +10,7 @@
 
 ## My favorite stack:
  <p align-"left">
- <img src="https://img.shields.io/badge/javascript-FD3A5C?style=for-the-badge&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/react-FD3A5C?style=for-the-badge&logo=react&logoColor=white">
  <img src="https://img.shields.io/badge/mongodb-FD3A5C?style=for-the-badge&logo=mongodb&logoColor=white">
  <img src="https://img.shields.io/badge/css3-FD3A5C?style=for-the-badge&logo=css3&logoColor=white">

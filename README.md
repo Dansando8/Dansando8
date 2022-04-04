@@ -10,6 +10,7 @@
 
 ### Languages and Tools:
  
+ <img src="https://img.shields.io/badge/javascript-FD3A5C?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/react-FD3A5C?style=for-the-badge&logo=react&logoColor=white">
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" margin="30px" title="React">

@@ -27,8 +27,8 @@
 
 ## Graphic Tools 
 <p align-"left">
- <img src="https://img.shields.io/badge/illustrator-FD3A5C?style=for-the-badge&logo=illustrator&logoColor=white">
- <img src="https://img.shields.io/badge/photoshop-FD3A5C?style=for-the-badge&logo=photoshop&logoColor=white">
+ <img src="https://img.shields.io/badge/illustrator-FD3A5C?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+ <img src="https://img.shields.io/badge/photoshop-FD3A5C?style=for-the-badge&logo=adobephotoshop&logoColor=white">
  <img src="https://img.shields.io/badge/figma-FD3A5C?style=for-the-badge&logo=figma&logoColor=white">
  <img src="https://img.shields.io/badge/figma-FD3A5C?style=for-the-badge&logo=figma&logoColor=white">
 </p>

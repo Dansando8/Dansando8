@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I am very social ! 
 <br />
 
-### My favorite stack:
+## My favorite stack:
  <p align-"left">
  <img src="https://img.shields.io/badge/javascript-FD3A5C?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/react-FD3A5C?style=for-the-badge&logo=react&logoColor=white">
@@ -20,12 +20,8 @@
  <img src="https://img.shields.io/badge/express-FD3A5C?style=for-the-badge&logo=express&logoColor=white">
 </p>
 
-## Other stack I have experience with
-<p align-"left">
- <img src="https://img.shields.io/badge/typescript-FD3A5C?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
 
-## Graphic Tools 
+### Graphic Tools 
 <p align-"left">
  <img src="https://img.shields.io/badge/illustrator-FD3A5C?style=for-the-badge&logo=adobeillustrator&logoColor=white">
  <img src="https://img.shields.io/badge/photoshop-FD3A5C?style=for-the-badge&logo=adobephotoshop&logoColor=white">
@@ -33,13 +29,26 @@
  <img src="https://img.shields.io/badge/figma-FD3A5C?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## Management Tools
+### Management Tools
 
 <p align-"left">
  <img src="https://img.shields.io/badge/asana-FD3A5C?style=for-the-badge&logo=asana&logoColor=white">
  <img src="https://img.shields.io/badge/trello-FD3A5C?style=for-the-badge&logo=trello&logoColor=white">
  <img src="https://img.shields.io/badge/notion-FD3A5C?style=for-the-badge&logo=notion&logoColor=white">
  <img src="https://img.shields.io/badge/github-FD3A5C?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+### Other stack I have experience with
+<p align-"left">
+ <img src="https://img.shields.io/badge/typescript-FD3A5C?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/docker-FD3A5C?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shieldsio/badge/docker-FD3A5C?style=for-the-badge&logo=socketio&logoColor=white">
+ <img src="https://img.shieldsio/badge/jest-FD3A5C?style=for-the-badge&logo=jest&logoColor=white">
+ <img src="https://img.shieldsio/badge/sass-FD3A5C?style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shieldsio/badge/mygraphql-FD3A5C?style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shieldsio/badge/postgresql-FD3A5C?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shieldsio/badge/prisma-FD3A5C?style=for-the-badge&logo=prisma&logoColor=white">
+ <img src="https://img.shieldsio/badge/koa-FD3A5C?style=for-the-badge&logo=koa&logoColor=white">
 </p>
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" margin="30px" title="React">

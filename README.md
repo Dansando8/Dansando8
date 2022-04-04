@@ -23,7 +23,7 @@
 ### Graphic Tools 
 <p align-"left">
  <img src="https://img.shields.io/badge/illustrator-f79501?style=for-the-badge&logo=adobeillustrator&logoColor=white">
- <img src="https://img.shields.io/badge/photoshop-001f36?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+ <img src="https://img.shields.io/badge/photoshop-30a8ff?style=for-the-badge&logo=adobephotoshop&logoColor=white">
  <img src="https://img.shields.io/badge/figma-9d56f7?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 

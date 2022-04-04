@@ -33,16 +33,16 @@
  <img src="https://img.shields.io/badge/asana-f15879?style=for-the-badge&logo=asana&logoColor=white">
  <img src="https://img.shields.io/badge/trello-0074b9?style=for-the-badge&logo=trello&logoColor=white">
  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
- <img src="https://img.shields.io/badge/github-FFFFFF?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
 </p>
 
 ### Other stack I have experience with
 <p align-"left">
- <img src="https://img.shields.io/badge/typescript-FD3A5C?style=for-the-badge&logo=typescript&logoColor=white">
- <img src="https://img.shields.io/badge/docker-FD3A5C?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/jest-FD3A5C?style=for-the-badge&logo=jest&logoColor=white">
- <img src="https://img.shields.io/badge/redux-FD3A5C?style=for-the-badge&logo=redux&logoColor=white">
- <img src="https://img.shields.io/badge/sass-FD3A5C?style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/jest-944058?style=for-the-badge&logo=jest&logoColor=white">
+ <img src="https://img.shields.io/badge/redux-7b40bd?style=for-the-badge&logo=redux&logoColor=white">
+ <img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/docker-2391e6?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/mygraphql-FD3A5C?style=for-the-badge&logo=mygraphql&logoColor=white">
  <img src="https://img.shields.io/badge/postgresql-FD3A5C?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/prisma-FD3A5C?style=for-the-badge&logo=prisma&logoColor=white">

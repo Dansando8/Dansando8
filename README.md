@@ -1,4 +1,4 @@
-### Hi there 👋
+### Danii Sandoval
 
 - 🔭 I’m currently working at MYR Solution and on my project TidyApp
 - 🌱 I’m currently learning React Native

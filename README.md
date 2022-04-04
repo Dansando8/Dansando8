@@ -26,7 +26,6 @@
  <img src="https://img.shields.io/badge/illustrator-FD3A5C?style=for-the-badge&logo=adobeillustrator&logoColor=white">
  <img src="https://img.shields.io/badge/photoshop-FD3A5C?style=for-the-badge&logo=adobephotoshop&logoColor=white">
  <img src="https://img.shields.io/badge/figma-FD3A5C?style=for-the-badge&logo=figma&logoColor=white">
- <img src="https://img.shields.io/badge/figma-FD3A5C?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ### Management Tools
@@ -44,15 +43,11 @@
  <img src="https://img.shields.io/badge/docker-FD3A5C?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/jest-FD3A5C?style=for-the-badge&logo=jest&logoColor=white">
  <img src="https://img.shields.io/badge/redux-FD3A5C?style=for-the-badge&logo=redux&logoColor=white">
-
- 
- 
- <img src="https://img.shieldsio/badge/jest-FD3A5C?style=for-the-badge&logo=jest&logoColor=white">
- <img src="https://img.shieldsio/badge/sass-FD3A5C?style=for-the-badge&logo=sass&logoColor=white">
- <img src="https://img.shieldsio/badge/mygraphql-FD3A5C?style=for-the-badge&logo=sass&logoColor=white">
- <img src="https://img.shieldsio/badge/postgresql-FD3A5C?style=for-the-badge&logo=postgresql&logoColor=white">
- <img src="https://img.shieldsio/badge/prisma-FD3A5C?style=for-the-badge&logo=prisma&logoColor=white">
- <img src="https://img.shieldsio/badge/koa-FD3A5C?style=for-the-badge&logo=koa&logoColor=white">
+ <img src="https://img.shields.io/badge/sass-FD3A5C?style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/mygraphql-FD3A5C?style=for-the-badge&logo=mygraphql&logoColor=white">
+ <img src="https://img.shields.io/badge/postgresql-FD3A5C?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/prisma-FD3A5C?style=for-the-badge&logo=prisma&logoColor=white">
+ <img src="https://img.shields.io/badge/koa-FD3A5C?style=for-the-badge&logo=koa&logoColor=white">
 </p>
 
 ## LinkUp:

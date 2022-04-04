@@ -43,10 +43,10 @@
  <img src="https://img.shields.io/badge/redux-7b40bd?style=for-the-badge&logo=redux&logoColor=white">
  <img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
  <img src="https://img.shields.io/badge/docker-2391e6?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/mygraphql-FD3A5C?style=for-the-badge&logo=mygraphql&logoColor=white">
- <img src="https://img.shields.io/badge/postgresql-FD3A5C?style=for-the-badge&logo=postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/prisma-FD3A5C?style=for-the-badge&logo=prisma&logoColor=white">
- <img src="https://img.shields.io/badge/koa-FD3A5C?style=for-the-badge&logo=koa&logoColor=white">
+ <img src="https://img.shields.io/badge/graphql-de32a6?style=for-the-badge&logo=graphql&logoColor=white">
+ <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
+ <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=white">
 </p>
 
 ## LinkUp:

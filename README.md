@@ -10,8 +10,7 @@
 
 ### Languages and Tools:
 
-<p align="left">
-  <div style=background-color: "grey">
+  <div style="background-color: grey, width: 50px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" margin="30px" title="React">
   </div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" margin="30px" width="40px" title="JavaScript">
@@ -39,7 +38,6 @@
   <img src="https://images.squarespace-cdn.com/content/v1/56b52779b6aa604bd212b0f1/1485284431534-540235GO2AAIN6E2FSL3/image-asset.png" margin="30px" width="40px" title="Asana">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" margin="30px" width="40px" title="Notion">
    <img src="https://toppng.com/uploads/preview/trello-logo-11609379884pqzesvzckp.png" margin="30px" width="40px" title="Trello">
-</p>
 
 ## LinkUp:
 

@@ -15,8 +15,7 @@
  <img src="https://img.shields.io/badge/mongodb-FD3A5C?style=for-the-badge&logo=mongodb&logoColor=white">
  <img src="https://img.shields.io/badge/css3-FD3A5C?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/html5-FD3A5C?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/nodejs-FD3A5C?style=for-the-badge&logo=nodejs&logoColor=white">
- <img src="https://img.shields.io/badge/nodejs-FD3A5C?style=for-the-badge&logo=nodejs&logoColor=white">
+ <img src="https://img.shields.io/badge/node.js-FD3A5C?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/express-FD3A5C?style=for-the-badge&logo=express&logoColor=white">
 </p>
 

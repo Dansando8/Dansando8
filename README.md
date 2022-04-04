@@ -32,7 +32,7 @@
 <p align-"left">
  <img src="https://img.shields.io/badge/asana-f15879?style=for-the-badge&logo=asana&logoColor=white">
  <img src="https://img.shields.io/badge/trello-0074b9?style=for-the-badge&logo=trello&logoColor=white">
- <img src="https://img.shields.io/badge/notion-000000de?style=for-the-badge&logo=notion&logoColor=white">
+ <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
  <img src="https://img.shields.io/badge/github-FD3A5C?style=for-the-badge&logo=github&logoColor=white">
 </p>
 

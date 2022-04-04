@@ -70,8 +70,8 @@ Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, Mon
 
 [TidyApp](https://github.com/Dansando8/TidyApp) is a MERN web application that helps parents to tach good  habits trhough gamification. Parents can create taksks with points and print QR codes, par exemple 'Doing your bed worth 500 points'. The child can scan the code once he accomplished the task to redeem the points. Then, the points will update and the child can redeem prices. This app will also have statistics that will help parents to track their children's activity. 
 
-∙ Design of the application: concept, logo and UI 
-∙ Solidification of the frontend (client) and backend (server) from scratch. 
-∙ Implementation of QR code system
-
+∙ Design of the application: concept, logo and UI <br />
+∙ Solidification of the frontend (client) and backend (server) from scratch. <br />
+∙ Implementation of QR code system <br />
+<br />
 TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.

@@ -46,7 +46,7 @@
  <img src="https://img.shields.io/badge/graphql-de32a6?style=for-the-badge&logo=graphql&logoColor=white">
  <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
- <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=white">
+ <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
 </p>
 
 ## LinkUp:

@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at MYR Solution and on my project TidyApp
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on small projects to add to my Portfolio

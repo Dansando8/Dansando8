@@ -41,9 +41,22 @@
    <img src="https://toppng.com/uploads/preview/trello-logo-11609379884pqzesvzckp.png" margin="30px" width="40px" title="Trello">
 </p>
 
+### LinkUp 
+
+[LinkUp](https://github.com/rbrtrfl/linkup) is an app for creating and joining events based on shared interests. The App will enable people to meet existing friends and make new friends through activities such as sports, games, excursions. Users are able to communicate via a group chat, based on event participants. The mission of the app is to enable people who want to make new friends to do so via their shared interests. Furthermore, established friend groups will have a forum to create and organize their activities.
+
+∙ Project planning and management. <br />
+∙ Participated on the design of the database structure. <br />
+∙ FrontEnd developer. <br />
+∙ Addition of Geolocation functionalities for events. <br />
+∙ Application of UI specifications from models created on Figma. <br />
+<br />
+
+Tech stack: React, Leaflet, Express, PostgreSQL , Prisma ORM, Socket.io, Typescript, Figma <br />
+
 ### DevTracker
 
-<a href="https://github.com/lthemis/DevTracker>DevTracker</a> is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information and providing them with insights.
+DevTracker is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information and providing them with insights.
 
 • Implemented automated integration and unit tests for all API endpoints and key front-end react components. <br />
 • Improved UI and UX to provide a better user experience / Created a new brand image including logo. <br />
@@ -52,3 +65,5 @@
 • Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues. <br />
 
 Tech Stack: React, TypeScript,, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.<br />
+
+

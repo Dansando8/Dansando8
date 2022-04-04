@@ -56,7 +56,7 @@ Tech stack: React, Leaflet, Express, PostgreSQL , Prisma ORM, Socket.io, Typescr
 
 ### DevTracker
 
-DevTracker is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information and providing them with insights.
+[DevTracker](https://github.com/lthemis/DevTracker) is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, and archiving recruitment information and providing them with insights.
 
 • Implemented automated integration and unit tests for all API endpoints and key front-end react components. <br />
 • Improved UI and UX to provide a better user experience / Created a new brand image including logo. <br />

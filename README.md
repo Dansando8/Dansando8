@@ -39,7 +39,7 @@
    <img src="https://toppng.com/uploads/preview/trello-logo-11609379884pqzesvzckp.png" margin="30px" width="40px" title="Trello">
 </p>
 
-###LinkUp
+##LinkUp
 
 [LinkUp](https://github.com/rbrtrfl/linkup) is an app for creating and joining events based on shared interests. The App will enable people to meet existing friends and make new friends through shared activities such as sports, games, and excursions. Users can communicate via a group chat, based on event participants. Furthermore, established friend groups will have a forum to create and organize their activities.
 ∙ Project planning and management. <br />
@@ -50,7 +50,7 @@
 <br />
 Tech stack: React, Leaflet, Express, PostgreSQL, Prisma ORM, Socket.io, Typescript, Figma<br />
 
-###DevTracker
+##DevTracker
 
 [DevTracker](https://github.com/lthemis/DevTracker) is a companion app for software engineers who are active one the job market. It supports them by managing job applications, reminding them about upcoming interviews, archiving recruitment information, and providing them with insights.<br />
 • Implemented automated integration and unit tests for all API endpoints and key front-end react components.<br />
@@ -60,7 +60,7 @@ Tech stack: React, Leaflet, Express, PostgreSQL, Prisma ORM, Socket.io, Typescri
 • Utilized tools such as Postman and Chrome Dev tools to isolate and debug issues.<br />
 Tech Stack: React, TypeScript, Recharts, Jest, Cypress, SuperTest, Express, MongoDB.<br />
 
-###TidyApp
+##TidyApp
 [TidyApp](https://github.com/Dansando8/TidyApp) is a MERN web application that helps parents to teach good habits through gamification. Parents can create tasks with points and print QR codes, par example: 'Doing your bed worth 500 points'. The child can scan the code once he accomplished the task to redeem the points. Then, the points will update and the child can redeem prices. This app will also have statistics that will help parents to track their children's activities.<br />
 ∙ Design of the application: concept, logo, and UI<br />
 ∙ Solidification of the frontend (client) and backend (server) from scratch.<br />

@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?height=250&text=Hello%20There!&desc=I%20am%20Danii%20Sandoval!&fontAlignY=45&color=gradient&type=waving)
-- 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
+- 🔭 I’m currently looking for new professional challenges and also working my project TidyApp !
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Digital Marketing. 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-sandoval-vcc)

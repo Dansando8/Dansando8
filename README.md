@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=300&text=Hello%20There!%20☀&desc=I%20am%20Danii%20Sandoval!&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&type=waving&fontColor=black)
+![header](https://capsule-render.vercel.app/api?height=300&text=Hello%20There!%20🕶&desc=I%20am%20Danii%20Sandoval!&fontAlignY=45&color=gradient&customColorList=0,2,2,5,30&type=waving&fontColor=black)
 
 - 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
 - 🌱 I’m currently learning React Native
@@ -6,7 +6,17 @@
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-sandoval-vcc)
 - ⚡ Fun fact: I am very social!
 
-<br />
+<br /> �
+
+
+
+
+
+
+
+
+
+
 
 ## My favorite stack:
  <p align-"left">

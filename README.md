@@ -50,6 +50,9 @@
  <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
+## Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansando8&theme=radical&show_icons=true)
+
 ## LinkUp:
 
 [LinkUp](https://github.com/rbrtrfl/linkup) is an app for creating and joining events based on shared interests. The App will enable people to meet existing friends and make new friends through shared activities such as sports, games, and excursions. Users can communicate via a group chat, based on event participants. Furthermore, established friend groups will have a forum to create and organize their activities.

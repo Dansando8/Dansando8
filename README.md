@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=200&text=Hello%20There!%I%am%Danni!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?height=200&text=Hello%20There!%20I%20am%Danni!)
 
 - 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
 - 🌱 I’m currently learning React Native

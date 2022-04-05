@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=200&text=Hello%20There!%20I%20am%20Danni!&color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?height=300&text=Hello%20There!%20I%20am%20Danni!&color=gradient&customColorList=0,2,2,5,30?type=wave)
 
 - 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
 - 🌱 I’m currently learning React Native

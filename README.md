@@ -1,11 +1,12 @@
 ### Danii Sandoval
 
-- 🔭 I’m currently working at MYR Solution and on my project TidyApp
+
+
+- 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Digital Marketing. 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-sandoval-vcc)
-- 😄 Pronouns: They
-- ⚡ Fun fact: I am very social ! 
+- ⚡ Fun fact: I am very social! 
 <br />
 
 ## My favorite stack:

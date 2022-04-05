@@ -1,6 +1,4 @@
-### Danii Sandoval
-
-
+![Hello, I am Danii Sandoval ! ](https://capsule-render.vercel.app/api?color=auto)
 
 - 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
 - 🌱 I’m currently learning React Native

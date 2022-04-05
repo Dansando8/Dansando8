@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Digital Marketing. 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-sandoval-vcc)
-- ⚡ Fun fact: I am very social! 
+- ⚡ Fun fact: I am very social!
+- 🎸 When I am not coding you will find me playing [music](https://www.facebook.com/melanie.landry/videos/10158063029548969) 
+
 <br />
 
 ## My favorite stack:

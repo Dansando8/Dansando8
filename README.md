@@ -51,7 +51,7 @@
 </p>
 
 ## Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansando8&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansando8&theme=algolia&show_icons=true)
 
 ## LinkUp:
 

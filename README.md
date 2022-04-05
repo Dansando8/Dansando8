@@ -1,4 +1,4 @@
-![Hello, I am Danii Sandoval ! ](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
 
 - 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
 - 🌱 I’m currently learning React Native

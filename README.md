@@ -5,7 +5,8 @@
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/daniel-sandoval-vcc)
 - ⚡ Fun fact: I am very social!
 - 👓 The geek : I am passionate about new technologies and a little bit geeky.
-- 🕶 The Rock Star: I really love playing music and karaoke ! 
+- 🕶 The Rock Star: I really love playing music and karaoke !
+- 🌎 I currently live in French Canada 
 <br /> 
 
 

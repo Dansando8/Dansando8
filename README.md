@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?height=250&text=Hello%20There!&desc=I%20am%20Danii%20Sandoval!&fontAlignY=45&color=gradient&type=waving)
 
-<p align-"left" width-"250px">
-I am a Full-Sack developer. I live in French Canada. I have worked for years in Web Marketing and project management. That's how I found my passion for coding. Since then, I have been interested in digital technologies and their incredible possibilities. Learning never ends, and I think it's great: the more you learn, the more you want to learn. So I  enjoy everything in this mesmerizing process called programming!
- </p>
-
 - 🔭 I’m currently looking for new professional challenges and on working my project TidyApp
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Digital Marketing. 

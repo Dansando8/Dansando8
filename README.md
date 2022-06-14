@@ -60,7 +60,7 @@
 
 # My recent projects
 
-## LinkUp > [live](https://linkup1.herokuapp.com/)
+## LinkUp 
 
 [LinkUp](https://github.com/rbrtrfl/linkup) is an app for creating and joining events based on shared interests. The App will enable people to meet existing friends and make new friends through shared activities such as sports, games, and excursions. Users can communicate via a group chat, based on event participants. Furthermore, established friend groups will have a forum to create and organize their activities.
 ∙ Project planning and management. <br />

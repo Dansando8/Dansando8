@@ -56,8 +56,6 @@
 ## Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansando8&theme=algolia&show_icons=true)
 
-![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/2e8ee15f-96c3-4f69-b550-34b523ce646f.svg)
-
 # My recent projects
 
 ## LinkUp 
@@ -89,3 +87,7 @@ Tech Stack: React, TypeScript, Recharts, Jest, Cypress, SuperTest, Express, Mong
 ∙ Implementation of QR code system<br />
 <br />
 TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
+
+# More Stats
+
+![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/2e8ee15f-96c3-4f69-b550-34b523ce646f.svg)

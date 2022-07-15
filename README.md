@@ -88,6 +88,10 @@ Tech Stack: React, TypeScript, Recharts, Jest, Cypress, SuperTest, Express, Mong
 <br />
 TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
 
+## Statistics
+![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/758f082e-8ba7-4a45-b1aa-6ec3ac305292.svg)
+
+
 ## Overview 
 
 ![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/85b78992-4064-47dc-a3c5-72e68db30c04.svg)

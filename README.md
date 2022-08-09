@@ -94,4 +94,4 @@ TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
 
 ## Overview 
 
-![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/85b78992-4064-47dc-a3c5-72e68db30c04.svg)
+![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/75997f4f-cde1-44b1-9dde-43d86d8fdeaa.svg)

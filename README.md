@@ -90,7 +90,7 @@ TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
 
 ## Other Smaller Projects
 #### Dbank 
-[Dbank](https://github.com/Dansando8/dbank) is a simple DeFi App application (inspired by Compound) that helps to understand comound iterest interacting with the ICP Live Blockchain.
+[Dbank](https://github.com/Dansando8/dbank) is a simple DeFi App application (inspired by Compound) that helps to understand comound iterest interacting with the ICP Live Blockchain.<br />
 TechStack: React, Motoko, JavaScript, Webpack, NodeJS, CSS.
 
 ## Statistics

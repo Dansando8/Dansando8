@@ -95,8 +95,3 @@ TechStack: React, Motoko, JavaScript, Webpack, NodeJS, CSS.
 
 ## Statistics
 ![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/ca6b35f8-cef6-4c83-a252-11283bd46853.svg)
-
-
-## Overview 
-
-![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/2328c7f4-0d96-40d9-8071-044bc899dd1c.svg)

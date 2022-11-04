@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I am very social!
 - 👓 The geek : I am passionate about new technologies and a little bit nerdy.
 - 🕶 The Rock Star: I really love playing music and karaoke!
-- 🌎 I currently live in French Canada 
+- 🌎 I currently live in Canada 
 <br /> 
 
 

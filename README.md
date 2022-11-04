@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?height=250&text=Hello%20There!&desc=I%20am%20Danii%20Sandoval!&fontAlignY=45&color=gradient&type=waving)
-- 🔭 I’m currently looking for new professional challenges and also working my project TidyApp !
+- 🔭 I’m currently working with Box Solitions on a project with Ebay!
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Digital Marketing. 
 - ⚡ Fun fact: I am very social!
 - 👓 The geek : I am passionate about new technologies and a little bit nerdy.
-- 🕶 The Rock Star: I really love playing music and karaoke !
+- 🕶 The Rock Star: I really love playing music and karaoke!
 - 🌎 I currently live in French Canada 
 <br /> 
 

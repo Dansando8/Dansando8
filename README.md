@@ -92,3 +92,6 @@ TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
 #### Dbank 
 [Dbank](https://github.com/Dansando8/dbank) is a simple DeFi App application (inspired by Compound) that helps to understand comound iterest interacting with the ICP Live Blockchain.<br />
 TechStack: React, Motoko, JavaScript, Webpack, NodeJS, CSS.
+
+#### International Space Station (ISS) Location 
+[ISS Locator](https://codepen.io/dansan33/pen/jOzmXzZ) is a small challenge in wich I made an interactive map in Vanilla JS that displays the location of the International Space Station Location second per second. 

@@ -57,7 +57,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansando8&theme=algolia&show_icons=true)
 
 ## Languages
-![Wakatime](https://wakatime.com"><img src="https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/660d093e-f12d-4d72-9a80-0c6d5d2317dd.png)
+![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/660d093e-f12d-4d72-9a80-0c6d5d2317dd.png)
 
 # My recent projects
 

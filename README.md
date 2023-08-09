@@ -56,6 +56,8 @@
 ## Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansando8&theme=algolia&show_icons=true)
 
+(https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/067f0508-6175-4a3e-bc8a-cabf43a5e7a8.png)
+
 # My recent projects
 
 ## LinkUp 

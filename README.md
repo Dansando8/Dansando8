@@ -89,6 +89,10 @@ Tech Stack: React, TypeScript, Recharts, Jest, Cypress, SuperTest, Express, Mong
 TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
 
 ## Other Smaller Projects
+####Slick's Pizza
+[Slick's Pizza](https://grand-dragon-67046c.netlify.app) This content management system (CMS) boasts dynamic page capabilities, seamless tag-based filtering, and a highly efficient REST API and CMS data retrieval system. Users gain the ability to personalize their orders through an interactive form, effortlessly handle cross-page interactions, and ensure optimal visibility via robust SEO strategies and well-implemented meta tags. The inclusion of email notifications ensures users stay consistently informed. Furthermore, the streamlined development workflow guarantees a seamless deployment process, with hosting on Netlify for maximum efficiency.
+TechStack: Gatsby, Sanity, GraphQL, Netlify
+
 #### Dbank 
 [Dbank](https://github.com/Dansando8/dbank) is a simple DeFi App application (inspired by Compound) that helps to understand comound iterest interacting with the ICP Live Blockchain.<br />
 TechStack: React, Motoko, JavaScript, Webpack, NodeJS, CSS.

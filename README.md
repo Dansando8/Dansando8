@@ -100,7 +100,7 @@ TechStack: Gatsby, Sanity, GraphQL, Netlify
 TechStack: React, Motoko, JavaScript, Webpack, NodeJS, CSS.
 
 #### International Space Station (ISS) Location 
-[ISS Locator](https://codepen.io/dansan33/pen/jOzmXzZ) is a small challenge in wich I made an interactive map in Vanilla JS that displays the location of the International Space Station Location second per second. 
+[ISS Locator](https://codepen.io/dansan33/pen/GRwbyEm) is a small challenge in wich I made an interactive map in Vanilla JS that displays the location of the International Space Station Location second per second. 
 
 # Languages 
 ![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/660d093e-f12d-4d72-9a80-0c6d5d2317dd.png)

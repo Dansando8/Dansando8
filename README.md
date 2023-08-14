@@ -54,6 +54,8 @@
  <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
  <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
+ <img src="https://img.shields.io/badge/apachejmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
+ <img src="https://img.shields.io/badge/blazemeter-CA2133?style=for-the-badge&logo=blasemeter&logoColor=white">
 </p>
 
 ## Stats 

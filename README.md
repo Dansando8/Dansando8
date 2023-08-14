@@ -37,6 +37,7 @@
 ### Management Tools
 
 <p align-"left">
+ <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
  <img src="https://img.shields.io/badge/asana-f15879?style=for-the-badge&logo=asana&logoColor=white">
  <img src="https://img.shields.io/badge/trello-0074b9?style=for-the-badge&logo=trello&logoColor=white">
  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">

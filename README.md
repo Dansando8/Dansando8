@@ -58,7 +58,7 @@
  <img src="https://img.shields.io/badge/blazemeter-CA2133?style=for-the-badge&logo=blazemeter&logoColor=white">
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">
  <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
- <img src="https://img.shields.io/badge/firebase-#FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+ <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
 ## Stats 

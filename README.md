@@ -2,7 +2,7 @@
 - 🔭 I’m currently working with Boxx Solutions on a project with Ebay!
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about ... Digital Marketing. 
-- ⚡ Fun fact: I am very social!
+- ⚡ Fun fact: 404 not found!
 - 👓 The geek : I am passionate about new technologies and a little bit nerdy.
 - 🕶 The Rock Star: I really love playing music and karaoke!
 - 🌎 I currently live in Canada 
@@ -99,6 +99,9 @@ Tech Stack: React, TypeScript, Recharts, Jest, Cypress, SuperTest, Express, Mong
 TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
 
 ## Other Smaller Projects
+#### VertCiel Communications website
+[VertCiel Communications](http://vertciel.ca/nos-services/marketing-web/) is a consulting Web Marketing agency. I worked on the UI design and UX. Also wrote the content and optimized the SEO. Basically, crafted the whole site and integrated it. 
+TexhStach: Html, JavaScript, CSS, WP. 
 
 #### Slick's Pizza
 [Slick's Pizza](https://grand-dragon-67046c.netlify.app) This content management system (CMS) boasts dynamic page capabilities, seamless tag-based filtering, and a highly efficient REST API and CMS data retrieval system. Users gain the ability to personalize their orders through an interactive form, effortlessly handle cross-page interactions, and ensure optimal visibility via robust SEO strategies and well-implemented meta tags. The inclusion of email notifications ensures users stay consistently informed. Furthermore, the streamlined development workflow guarantees a seamless deployment process, with hosting on Netlify for maximum efficiency.
@@ -109,7 +112,8 @@ TechStack: Gatsby, Sanity, GraphQL, Netlify
 TechStack: React, Motoko, JavaScript, Webpack, NodeJS, CSS.
 
 #### International Space Station (ISS) Location 
-[ISS Locator](https://codepen.io/dansan33/pen/GRwbyEm) is a small challenge in wich I made an interactive map in Vanilla JS that displays the location of the International Space Station Location second per second. 
+[ISS Locator](https://codepen.io/dansan33/pen/GRwbyEm) is a small challenge in wich I made an interactive map in Vanilla JS that displays the location of the International Space Station Location second per second.
+TechStack: Vanilla JavaScript
 
 # Languages 
 ![Wakatime](https://wakatime.com/share/@5a710e06-7d85-4fe6-9d46-2f05e722ba16/660d093e-f12d-4d72-9a80-0c6d5d2317dd.png)

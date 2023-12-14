@@ -99,8 +99,8 @@ Tech Stack: React, TypeScript, Recharts, Jest, Cypress, SuperTest, Express, Mong
 TechStack: Mongo (Mongoose), Express, React, Node, Bootstrap, QR codes.<br />
 
 ## Other Smaller Projects
-#### VertCiel Communications website
-[VertCiel Communications](http://vertciel.ca/nos-services/marketing-web/) is a consulting Web Marketing agency. I worked on the UI design and UX. Also wrote the content and optimized the SEO. Basically, crafted the whole site and integrated it. 
+#### VCC website
+[VCC](http://vertciel.ca/nos-services/marketing-web/) is a consulting Web Marketing agency. I worked on the UI design and UX. Also wrote the content and optimized the SEO. Basically, crafted the whole site and integrated it. 
 TexhStach: Html, JavaScript, CSS, WP. 
 
 #### Slick's Pizza

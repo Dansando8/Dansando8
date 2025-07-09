@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=250&text=Hello%20There!&desc=I%20am%20Danii%20Sandoval!&fontAlignY=45&color=gradient&type=waving)
 - 🔭 I’m currently working with Codeboxx as a consultant!
-- 🤓 I study Python on my free time because I want to work with AI!
+- 🤓 I have learned Python on my free time and I am studying Machine Learning!
 - 💬 Ask me about ... Digital Marketing. 
 - ⚡ Fun fact: 404 not found!
 - 👓 The geek : I am passionate about new technologies and a little bit nerdy.

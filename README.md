@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?height=250&text=Hello%20There!&desc=I%20am%20Danii%20Sandoval!&fontAlignY=45&color=gradient&type=waving)
-- 🔭 I’m currently working with Codeboxx as a consultant for Ebay projects!
+- 🔭 I’m currently working with Codeboxx as a consultant!
 - 🤓 I study Python on my free time because I want to work with AI!
 - 💬 Ask me about ... Digital Marketing. 
 - ⚡ Fun fact: 404 not found!

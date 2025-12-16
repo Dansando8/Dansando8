@@ -75,13 +75,13 @@
 
 # My recent projects
 
-## [CODI Admissions Assistant](https://gem.codeboxx.dev)
+## CODI Admissions Assistant for Codeboxx Academy
 
-CODI — AI Admissions Agent
+[CODI Admissions Assistant](https://gem.codeboxx.dev)
 
 CODI is an AI-powered Admissions Agent developed for CodeBoxx Academy. It demonstrates the design and implementation of a production-ready AI system that supports real admissions workflows, combining conversational AI with backend automation, third-party integrations, and secure data handling.
 
-CODI is built as a backend-driven system that powers a web chat experience, answers admissions-related questions using controlled rules and instructions, captures and validates prospect information, and integrates with external platforms used by admissions and operations teams.
+CODI is built as a backend-driven system that powers a web chat experience, answers admissions-related questions using controlled rules and instructions, captures and validates prospect information, and integrates with external platforms used by admissions and operations teams. Can visit it here https://gem.codeboxx.dev or directly by clicking at the icon at the bottom of the Codeboxx Academy landing page. 
 
 What CODI Demonstrates
 
@@ -89,7 +89,7 @@ Conversational AI with Session Persistence
 Lead Capture and Data Validation  
 Admissions Workflow Automation  
 Enterprise-Grade Integrations  
-Scalable Backend Architecture  
+Scalable Backend Architecture 
 
 ## LinkUp
 

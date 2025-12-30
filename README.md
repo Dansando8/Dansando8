@@ -106,7 +106,7 @@ Scalable Backend Architecture
 ## Other Smaller Projects 
 
 #### VCC website 
-[VCC](http://vertciel.ca/nos-services/marketing-web/) is a consulting Web Marketing agency. I worked on the UI design and UX. Also wrote the content and optimized the SEO. Basically, crafted the whole site and integrated it. TexhStach: Html, JavaScript, CSS, WP. 
+[VCC](http://vertciel.ca/nos-services/marketing-web/) is a consulting Web Marketing agency. I worked on the UI design and UX. Also wrote the content and optimized the SEO. Basically, crafted the whole site and integrated it. TexhStach: Html, JavaScript, CSS. 
 
 #### Slick's Pizza 
 [Slick's Pizza](https://grand-dragon-67046c.netlify.app) 
